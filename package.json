@@ -5,20 +5,20 @@
   "dependencies": {
     "rxjs": "6.6.7",
     "core-js": "2.5.5",
-    "zone.js": "0.9.1",
+    "zone.js": "0.10.3",
     "@ngrx/store": "6.1.0",
     "@angular/cdk": "6.4.7",
     "@ngrx/entity": "6.1.0",
-    "@angular/core": "8.2.14",
-    "@angular/forms": "8.2.14",
-    "@angular/common": "8.2.14",
-    "@angular/compiler": "8.2.14",
+    "@angular/core": "9.1.13",
+    "@angular/forms": "9.1.13",
+    "@angular/common": "9.1.13",
+    "@angular/compiler": "9.1.13",
     "@angular/material": "6.4.7",
-    "@angular/animations": "8.2.14",
+    "@angular/animations": "9.1.13",
     "@angular/flex-layout": "6.0.0-beta.18",
     "@ngrx/store-devtools": "6.1.0",
-    "@angular/platform-browser": "8.2.14",
-    "@angular/platform-browser-dynamic": "8.2.14"
+    "@angular/platform-browser": "9.1.13",
+    "@angular/platform-browser-dynamic": "9.1.13"
   },
   "scripts": {
     "ng": "ng",
